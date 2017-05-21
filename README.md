@@ -1,0 +1,2 @@
+# javasyntaxcollect
+java syntax collect
